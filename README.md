@@ -32,7 +32,6 @@ O projeto segue a seguinte estrutura:
 ## Como Usar
 1. Clone o repositório para obter uma cópia local.
 2. Instale as dependências listadas acima.
-3. Navegue até o diretório `notebooks/` e abra os Jupyter notebooks para explorar a análise e os resultados.
 
 ## Contribuições
 Contribuições são bem-vindas. Se tiver sugestões de melhorias ou encontrar bugs, por favor, abra uma issue ou envie um pull request.
